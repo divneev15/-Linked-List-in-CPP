@@ -106,7 +106,7 @@ This indicates that the node has been created successfully and is not connected 
 
 1. Start the program.
 2. Define a class `Node` with data (`char val`) and pointer (`Node* next`).
-3. Create three nodes: `A`, `B`, and `C`.
+3. Create three nodes: `10`, `20`, and `30`.
 4. Link them:
 
    * `n1->next = n2`
@@ -127,9 +127,9 @@ In this step, we link multiple nodes to form a basic chain (linked list). The li
 ### **Sample Output Explanation:**
 
 ```
-A
-B
-C
+10
+20
+30
 ```
 
 * This means nodes were successfully linked: A → B → C → NULL.
@@ -237,13 +237,3 @@ In this session, we understood the **Linked List** data structure's structure, b
 * Insertion at the head
 
 By learning these fundamentals, we gain the ability to build more complex and efficient data structures. Linked lists are crucial for solving problems involving dynamic memory and are a stepping stone to mastering data structures in C++.
-
----
-
-Let me know if you’d like to include more **programs** like:
-
-* Insertion at **tail**
-* **Deletion** of nodes
-* **Search** operations
-* **Reversing** a linked list
-  Or if you'd like this formatted as a **PDF or Word document**!
