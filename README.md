@@ -23,6 +23,9 @@ A **Linked List** is a linear data structure where each element (called a **node
 
 * **Data:** Stores the actual value.
 * **Pointer (Next):** Stores the address of the next node in the list.
+* Thus, nodes are dynamically linked together to form a chain.
+
+Unlike arrays, linked lists do not store data in contiguous memory locations. Instead, nodes are dynamically allocated and connected using pointers. This provides flexibility in memory usage and efficient insertion/deletion.
 * <img width="957" height="189" alt="image" src="https://github.com/user-attachments/assets/617d384f-09fc-41ac-bec3-36d9654bb34e" />
 
 
