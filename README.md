@@ -23,6 +23,8 @@ A **Linked List** is a linear data structure where each element (called a **node
 
 * **Data:** Stores the actual value.
 * **Pointer (Next):** Stores the address of the next node in the list.
+* <img width="957" height="189" alt="image" src="https://github.com/user-attachments/assets/617d384f-09fc-41ac-bec3-36d9654bb34e" />
+
 
 ---
 
@@ -43,6 +45,9 @@ A **Linked List** is a linear data structure where each element (called a **node
 | Size               | Fixed at compile-time      | Dynamic (can grow/shrink at runtime) |
 | Insertion/Deletion | Costly (involves shifting) | Efficient (just change pointers)     |
 | Access             | Direct (O(1) via index)    | Sequential (O(n) traversal)          |
+
+<img width="597" height="401" alt="image" src="https://github.com/user-attachments/assets/512fab2d-5869-4d42-8262-631c76e10bf8" />
+
 
 ---
 
